@@ -1,7 +1,7 @@
 # RL-SoccerTwos
 Repositório destinado ao trabalho final da disciplina de Aprendizado por Reforço da UFG. <br>
 
-Integrantes:
+Integrantes: <br>
 Luiz Fernando Vidal <br>
 Luiz Guilherme Corrêa <br>
 Heloisy Rodrigues <br>
