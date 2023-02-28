@@ -1,4 +1,5 @@
 # RL-SoccerTwos
+Time: Bola Murcha <br>
 Repositório destinado ao trabalho final da disciplina de Aprendizado por Reforço da UFG. <br>
 
 Integrantes: <br>
