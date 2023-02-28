@@ -17,6 +17,9 @@ Na pasta códigos se encontram os notebooks que foram utilizados para treinar os
 # Avaliação
 
 Avaliação feita contra um agente aleatório: <br>
+Resumo: <br>
+Bola Murcha: Win Rate - 53% <br>
+Random: Win Rate - 16% <br>
 <pre>
 Bola Murcha vs Random  <br>
 
