@@ -11,4 +11,4 @@ Tiago Martins <br>
 
 Na pasta ppo_agent se encontra a classe do agente que recebe a política já treinada (no arquivo policy_state.pkl). Essa é a classe que será utilizada na competição. <br>
 
-Na pasta códigos se encontram os notebooks que foram utilizados para treinar os modelos.
+Na pasta códigos se encontram os notebooks que foram utilizados para treinar os modelos. São 2 notebooks: um deles é o treinamento em que se utiliza uma política para o time, enquanto o outro treina uma política de forma individual para um agente e passa suas atualizações para os outros agentes.
