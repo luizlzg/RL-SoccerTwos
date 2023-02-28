@@ -17,6 +17,7 @@ Na pasta códigos se encontram os notebooks que foram utilizados para treinar os
 # Avaliação
 
 Avaliação feita contra um agente aleatório: <br>
+<pre>
 Bola Murcha vs Random  <br>
 
 episode_len_mean: 577.33 <br>
