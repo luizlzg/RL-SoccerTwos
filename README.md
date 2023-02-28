@@ -7,7 +7,7 @@ Luiz Guilherme Corrêa <br>
 Heloisy Rodrigues <br>
 Tiago Martins <br>
 
-# Organização
+# Estrutura
 
 Na pasta ppo_agent se encontra a classe do agente que recebe a política já treinada (no arquivo policy_state.pkl). Essa é a classe que será utilizada na competição. <br>
 
